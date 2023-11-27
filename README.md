@@ -1,5 +1,8 @@
 # mgt4250test
 
+[Link to Tableau Public Visualization](https://public.tableau.com/app/profile/alyssa.williams8052/viz/class25_17011142710100/Sheet1)
+
+
 ## Project description
 ### Questions of Interest
 These are my questions. 
