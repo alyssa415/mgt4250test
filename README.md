@@ -21,7 +21,7 @@ This is *especially* **important** because
 ## Data Description
 
 ## Interpreting Visualizations
-[Uploading DV&S Project.twb…]()
-[Uploading DV&S Project.twb…]()
+<img width="881" alt="Screenshot 2023-11-19 at 8 48 42 PM" src="https://github.com/alyssa415/mgt4250test/assets/152214835/f8f3847d-9485-4418-a369-6b5caaee8ce4">
+
 
 ## Discussion & Summary
